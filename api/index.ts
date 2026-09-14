@@ -3,7 +3,7 @@ import { CONSTANTS, parseParams } from "../src/utils.ts";
 import { COLORS, Theme } from "../src/theme.ts";
 import { Error400 } from "../src/error_page.ts";
 //import "@std/dotenv/load";
-import "jsr:@std/dotenv@^0.224.0/load";
+//import "jsr:@std/dotenv@^0.224.0/load";
 import { staticRenderRegeneration } from "../src/StaticRenderRegeneration/index.ts";
 import { GithubRepositoryService } from "../src/Repository/GithubRepository.ts";
 import { GithubApiService } from "../src/Services/GithubApiService.ts";
